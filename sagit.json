@@ -1,20 +1,13 @@
 {
-  "error": true,
-  "maintainers": [
+  "response": [
     {
-      "main_maintainer": true,
-      "github_username": "Nanhumly",
-      "name": "Nanhumly"
+      "datetime": 1663237976, 
+      "filename": "Arrow-v13.0-sagit-UNOFFICIAL-20220915-GAPPS.zip", 
+      "id": "e4e17a111c38b94af58db4fa56bcf010742b746bf07b5325a3de065fdd553508", 
+      "romtype": "UNOFFICIAL", 
+      "size": "1278462802", 
+      "url": "https://down.warbler.cc/d/XiaoMi-6/ArrowOS/13.0/Gapps/Arrow-v13.0-sagit-UNOFFICIAL-20220915-GAPPS.zip", 
+      "version": "v13.0"
     }
-  ],
-  "donate_url": "https://t.me/Nanhumly",
-  "website_url": "https://warbler.cc",
-  "news_url": "https://t.me/sagitupdate",
-  "datetime": 1661676228,
-  "filename": "Kaleidoscope-sunflowerleaf-sagit-20220828-UNOFFICIAL.zip",
-  "id": "0587f6106b56b05a9f2c544019694651",
-  "size": 1118964782,
-  "url":"https://down.warbler.cc/d/XiaoMi-6/KaleidoscopeOS/sunflowerleaf/Kaleidoscope-sunflowerleaf-sagit-20220828-UNOFFICIAL.zip",
-  "version": "sunflowerleaf",
-  "filehash": "d9f04f318b324583a63a3ee5219f75163a027935a512d10c9cd5a36d4457fe5e"
+  ]
 }
